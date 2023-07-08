@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NnickSecurity and im I am a cybersecurity and ethical hacking enthusiast,
+-  this is my repo where you will find projects such as exploits or hacking tools.
+-  JOIN IN D3AD_SEC h4cking group on telegram! -->  https://t.me/+nL3OEZRwcYFjNGE0
